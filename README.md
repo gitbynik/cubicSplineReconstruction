@@ -12,4 +12,4 @@ Pressing Ctrl+L loads the points from data.txt.
 Compilation requires installation of SDL3, SDL3_image and SDL3_TTF libraries.
 Running requires the corresponding dynamic libraries/shared libraries and also a TTF file in the local directory. A static standalone portable windows executable has also been provided for convenience. Makefile has been provided as well.
 
-Compiling with the static flag produces a static binary. Compiling with debug flag on windows allows console to be opened as well.
+Compiling with the static flag produces a static binary(only on windows, still requires ttf file). Compiling with debug flag on windows allows console to be opened as well.
