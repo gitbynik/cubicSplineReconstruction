@@ -2,7 +2,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include "spline.h"
-#include "sign.h"
 
 void initDoubleVector(DoubleVector* v)
 {
